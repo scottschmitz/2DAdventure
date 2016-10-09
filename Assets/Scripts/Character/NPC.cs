@@ -3,7 +3,7 @@ using System.Collections;
 
 public class NPC : Character {
 
-	public void Start() {
+	public void Awake() {
 		isKillable = false;
 	}
 
