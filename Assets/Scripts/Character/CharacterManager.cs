@@ -6,7 +6,7 @@ public class CharacterManager : MonoBehaviour {
 	protected static CharacterManager _instance;
 
 	[SerializeField]
-	protected float speed = 7.0f;
+	protected float speed = 1.4f;
 
 	/*
 	* Find/Create/Return our one and only Game Manager object
